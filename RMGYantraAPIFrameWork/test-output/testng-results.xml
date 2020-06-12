@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3446" started-at="2020-06-12T21:02:41 IST" finished-at="2020-06-12T21:02:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3446" started-at="2020-06-12T21:02:41 IST" finished-at="2020-06-12T21:02:45 IST">
+      <class name="com.rmgyantra.project.AddProjectWitONGoingStatus">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.rmgyantra.project.AddProjectWitONGoingStatus@6895a785]" name="configBS" is-config="true" duration-ms="953" started-at="2020-06-12T21:02:40 IST" finished-at="2020-06-12T21:02:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="addProjectONGoingStatusTest()[pri:0, instance:com.rmgyantra.project.AddProjectWitONGoingStatus@6895a785]" name="addProjectONGoingStatusTest" duration-ms="3388" started-at="2020-06-12T21:02:41 IST" finished-at="2020-06-12T21:02:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProjectONGoingStatusTest -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.rmgyantra.project.AddProjectWitONGoingStatus@6895a785]" name="configAS" is-config="true" duration-ms="15" started-at="2020-06-12T21:02:45 IST" finished-at="2020-06-12T21:02:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.rmgyantra.project.AddProjectWitONGoingStatus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
